@@ -1,0 +1,4 @@
+train: D:\PythonML\train.txt
+val: D:\PythonML\val.txt
+nc: 7
+names: ['0', '1', '2', 'eating-person', 'face', 'human', 'person']
